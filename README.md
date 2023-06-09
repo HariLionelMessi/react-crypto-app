@@ -1,5 +1,5 @@
 # react-crypto-app
-###This websiste is built using React and Coingecko to display real time data
+### This websiste is built using React and Coingecko to display real time data
 
 #### It uses Chakra UI to build the UI of the website
 
